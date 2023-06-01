@@ -3,7 +3,7 @@ import streamlit as st
 st.markdown("# The Hunger Season")
 st.markdown("_Created by Ali Zia (az2741@columbia.edu) for NewsGamer")
 st.markdown('Years of poor farming practices and drought have cast European Country X into a devastating hunger season. \nTwo years ago, in an attempt to protect Country Xs nuclear weapons program amid tensions with Ghana, President Felix terminated the Open Dialogue Agreement (ODA)between Country X, the US, and major European/African powers to maintain open economic and military discourse and motivate world peace. Now, in an attempt to pull Country X out of disaster, \
-    you have been appointed as the new president, and must resume talks with world leaders for aid.\nCan you right the wrongs of Silva's diplomatic strategy, or will the people of Country X stay hungry?')
+    you have been appointed as the new president, and must resume talks with world leaders for aid.\nCan you right the wrongs of Silvas diplomatic strategy, or will the people of Country X stay hungry?')
 st.markdown('Looking for words similar to one you already know? **Type the word in English and press Enter below.**')
 openai.api_key = "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"
 model_engine = "gpt-3.5-turbo" 
